@@ -22,15 +22,21 @@ Simple, fast and scalable API for optimizing delivery routes in real-time
 
 {{< brick_contact >}}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+## Contact
 
-Soetendaal 7  
-1081BL Amsterdam  
-The Netherlands
+Interested in learning more?  
+Please submit the contact form and one member of our team will reach you shortly.
 
-joost@vdschee.nl  
-+31 618 518 928
+🏢  
+Ivis 102  
+16561 Glyfada, Athens  
+Greece
 
-{{< socialbuttons >}}
+✉️  
+info@transopt.io
+
+<!-- {{< socialbuttons >}} -->
+
 {{< /brick_contact >}}
-{{< brick_map >}}{{< /brick_map >}}
+
+<!-- {{< brick_map >}}{{< /brick_map >}} -->
