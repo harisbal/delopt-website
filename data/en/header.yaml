@@ -1,0 +1,15 @@
+logo_image:
+logo_subtitle: Delivery made easy
+mobile_view_width: 1100
+menuitems:
+  - title: Features
+    link: /#features
+  - title: Pricing
+    link: /#pricing
+  - title: Contact us
+    link: /#contact
+cta:
+  active: true
+  title: Get started
+  link: /get-started/
+preheader: open Mon-Fri from 9-5
